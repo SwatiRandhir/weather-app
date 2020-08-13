@@ -6,7 +6,7 @@ This project was built for get Weather Details
 
 ## Demo 
 
- http://SwatiRandhir.github.io/weather-app
+https://weather-application-deploy.herokuapp.com/
 
 ## Api
 
